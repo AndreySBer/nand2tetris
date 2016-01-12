@@ -10,7 +10,7 @@
 
  * [Online Markdown editor](https://jbt.github.io/markdown-editor) for Markdown parsing
  * [From NAND to Tetris](http://www.nand2tetris.org/) for the whole idea
-'''
+```
 CHIP Not {
     IN in;
     OUT out;
@@ -20,4 +20,4 @@ CHIP Not {
 		    b=in,
 		    out=out);
 }
-'''
+```
